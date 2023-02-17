@@ -1,0 +1,29 @@
+
+
+#image{
+    height: 340px;
+    margin:auto;
+    padding:0px;
+}
+
+#navbar{
+    padding:0px;
+}
+
+#photo-caption{
+    font-size: 50px;
+    padding:60px;
+}
+
+.rounded-circle{
+    height:100px;
+}
+@media (max-width:840px){
+    #map-image{
+        visibility: hidden;
+    }
+
+    #info{
+        margin:0px;
+    }
+}
